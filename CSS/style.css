@@ -22,7 +22,7 @@ header a{
     margin-bottom: 50vh;
 }
 main{
-    margin: 0;
+    margin: 10px;
 }
 .block{ position: relative;
     transform: translate(860px,-35px);
@@ -46,6 +46,7 @@ main{
     main p{
         font-size: 25px;
         color: #FC5252;
+        margin: 10px;
     }
 
     main img{

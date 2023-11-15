@@ -1,5 +1,5 @@
 body {
-    width: 1400px;
+    width: 100%;
     margin-left: 0;
     margin-right: 0;
     margin-top: 0;
@@ -28,7 +28,7 @@ main{
     transform: translate(860px,-35px);
 }
     .footer{padding: 30px;
-        width: 1345px;
+        width: 100%;
         margin-top: 90px;
         margin-bottom: 0;
         color: #fff;
